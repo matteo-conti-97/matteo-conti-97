@@ -11,7 +11,7 @@
     my main interests are data managment, machine learning and robotics.\
     I also have a background as a technician in AV and KVM systems and in the field of automation.
 ## And here some stats 📈
-[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matteo-conti-97&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=matteo-conti-97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matteo-conti-97&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 

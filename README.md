@@ -10,8 +10,7 @@
   <font size="6"> 
     I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering.\
     I also have a background as a technician in AV and KVM systems and in the field of automation.\
-    My main interests are data managment, machine learning and robotics.\
-  </font>
+    My main interests are data managment, machine learning and robotics.</font>
 ## And here some stats 📈
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=matteo-conti-97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

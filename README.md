@@ -8,9 +8,6 @@
   </div>
 </div>
 <div>
-  <div align="left>
-    <h2>Here some stuff about me:</h2>
-    <p>I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering, my main interests are data managment, machine learning and robotics. I also have a background as a technician in AV and KVM systems and in the field of automation.</p>
-    <h2>And here some stats:</h2>
-  </div>
-</div>
+# Here some stuff about me:
+    I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering, my main interests are data managment, machine learning and robotics. I also have a background as a technician in AV and KVM systems and in the field of automation.
+# And here some stats:

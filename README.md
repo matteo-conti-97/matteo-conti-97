@@ -7,5 +7,7 @@
 </div>
 
 ## Here some stuff about me:
-    I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering, my main interests are data managment, machine learning and robotics. I also have a background as a technician in AV and KVM systems and in the field of automation.
+    I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering,\
+    my main interests are data managment, machine learning and robotics.\
+    I also have a background as a technician in AV and KVM systems and in the field of automation.
 ## And here some stats:

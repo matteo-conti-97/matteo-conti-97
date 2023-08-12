@@ -7,7 +7,7 @@
 </div>
 
 ## Here some stuff about me 👽
-  <font size="6">I'm student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering.\
+  <font size="6">I'm a student at the University of Rome Tor Vergata, currently i'm attending a master's degree in computer engineering.\
     I also have a background as a technician in AV and KVM systems and in the field of automation.\
     My main interests are data managment, machine learning and robotics.</font>
 ## And here some stats 📈
